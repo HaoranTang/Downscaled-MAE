@@ -1,5 +1,5 @@
 # 546 Final Project: Masked Autoencoder
-##### Haoran Tang, thr99@seas, Qirui Wu, wuqirui@seas
+##### Haoran Tang, Qirui Wu
 
 #### 1. Training
 To train the network, please run mae_pretraining.py. Please modify folder paths and args if necessary. Also, to modify embedding dimension of the encoder, please change it manually in models.py, the VIT network.
