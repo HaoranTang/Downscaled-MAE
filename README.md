@@ -1,4 +1,4 @@
-# 546 Final Project: Masked Autoencoder
+#### 546 Final Project: Masked Autoencoder
 ##### Haoran Tang, Qirui Wu
 
 #### 1. Training
